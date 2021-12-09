@@ -4,7 +4,7 @@ export libMLIR
 using Zlib_jll
 using libLLVM_jll
 JLLWrappers.@generate_wrapper_header("MLIR")
-JLLWrappers.@declare_library_product(libMLIR, "libMLIR.so.13jl")
+JLLWrappers.@declare_library_product(libMLIR, "libMLIR.so.12jl")
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll, libLLVM_jll)
     JLLWrappers.@init_library_product(
