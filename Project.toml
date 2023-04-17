@@ -1,6 +1,6 @@
 name = "MLIR_jll"
 uuid = "a70bccb4-a5c0-5e2e-a329-e731972457e8"
-version = "15.0.7+3"
+version = "14.0.6+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,4 +13,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.4.0"
 julia = "1.9"
-libLLVM_jll = "15.0.7"
+libLLVM_jll = "14.0.6"
