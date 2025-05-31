@@ -1,676 +1,632 @@
 [[MLIR]]
 arch = "aarch64"
-git-tree-sha1 = "687c2f9f2f27e601b03733f6284facd99af5e092"
-llvm_version = "20"
+git-tree-sha1 = "30b61f5f7cfa5739a12440138848d4e01da11cd5"
+llvm_version = "18"
 os = "macos"
 
     [[MLIR.download]]
-    sha256 = "6b26726cf80a2f1341b4e48ca0abdfc36fe548bc7e6c73a2c89c60ed13521609"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-apple-darwin-llvm_version+20.tar.gz"
+    sha256 = "fafc4fd39e43cac5e3f3d3ac3e25a8cac06a0b0ab55bc41d1c63cbd809d32884"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-apple-darwin-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "091c470dbc66c4f35df4a4fa898db5b7d281dcdd"
+git-tree-sha1 = "d2d1ae1f0b86eb703b2cfbec8263604fb74f3dd9"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "deed1b69b253e754dbb1cddd763bdfc62c437b697b0a64d9b17923c6dc1c9ef1"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-gnu-cxx03-llvm_version+20.tar.gz"
+    sha256 = "f69bfc8d3e686e25a5f3639568e986cb8a8f32ffcaa752db4d39a99ee2aba05c"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed7b65e94e9d1d2a44982f08f61ecf9792e97dd4"
+git-tree-sha1 = "3e41b1e53a35fdfee234d42a539a2e2b018f2e82"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "0e18cbdfd13dbaf2ff7e0e1a13881538b59c62f9c8e3e3ac2320e8c5440246ad"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "5e35f750301bff3b3af3d5457cfc54e06e6d4b9bee20d24a27d8f563de30f933"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "48a77e073385eca9fc0b0bc262d732965eef146a"
+git-tree-sha1 = "62523c28ec9a38e2088a1c4b67670720624b8951"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "348bcb77bb74eac52bb97db53acd83fe63994879e3c5b4a15dcca2b816e7a960"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-musl-cxx03-llvm_version+20.tar.gz"
+    sha256 = "48524765f7b688e2c090c2b550debb154effb188d2f3841295eb9943896d47e8"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50238b6a527680f29fc91a60d20d2c5386e6aa75"
+git-tree-sha1 = "71b60c0229b4dbdcccc4339505ccbd2b94810f7e"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "c9d90e850e84dca317ce8ab8b19b68f60feefe584fc74d7750f988bfef032d87"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    sha256 = "de64c048c99d646a1f222b9d5f36f4f4b6d0ef92154b156d6f9135bc4085d8e3"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
-git-tree-sha1 = "5d5a2886a751069237207da687aa035e80cb2225"
-llvm_version = "20"
+git-tree-sha1 = "875fa5b2135d39174acb6e2a8fefc549dd8b49bf"
+llvm_version = "18"
 os = "freebsd"
 
     [[MLIR.download]]
-    sha256 = "86acabb7ede378652fe68c8aeadb4d197fb4c4e0f718a510f4890b4a2841d42f"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
+    sha256 = "29ec8fdca0d98d2d9171939a7c5ac96a4dcb93d8bf7be9849a3b1f0cb2d892de"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b9d08581fe0c6a8ae98591e7b550a9480c9b2bd"
+git-tree-sha1 = "3b21dd840c9d89cb3ea9a792d9e5727fe8d39e5c"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "22520f443af3e4bd8994cca8e51cd325b04688cc4f031e950ae4f0e071758348"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-gnueabihf-cxx03-llvm_version+20.tar.gz"
+    sha256 = "ada4301224d9015b0e5e959b9111401cb24fa444c9f005275d475ace8763854d"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a20db3b910b91ee624b447d3db182d0f25afc61"
+git-tree-sha1 = "3e407536d9c1af2bb9c746e987dacbe9b03e3222"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "ed4c77acca167df58d7c4e36f8138338684fab7b011ced21395220d84bee3397"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "e3490ece73a3a7633bfebdf0ddc27e0215575d3ae9f7448e59f1609b21c261d5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6e2c96bd5ceb07266155ec354b8478b2bb83d3bb"
+git-tree-sha1 = "c4972f3c69b8f409ff695c8b30aca1ebb3779df3"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "c6e8149d495e119cd482d9ca2fdf854aa6d64307fbfafdac31d95a7ecdb8393e"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-musleabihf-cxx03-llvm_version+20.tar.gz"
+    sha256 = "c7781cbde9829ab938cfd0c4af074bb4c65863ccc76d5ccc3cd29478451c5fc5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cd84f139029ef0f415d379b3e99d0ee025c5cc54"
+git-tree-sha1 = "bde4a8c1df249fb6cf0394c9f20c8b5d4a75abbe"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "fb8d74663c07b1964e9087255212c0d50b15376bf7f36b2889ac4d6c3d83eecd"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "8c420bc23ec0bbf01a59c8d846a382425aad31f6af332757ece3fe66d5c691ee"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a7ea33ed3845723d4c6ec5c174e8a4285d9c6b9c"
+git-tree-sha1 = "c66bc2425a97ba4e5741e58f5e1fbccfd5589587"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "807fe4e3a1a565109c180d0a51159ab434f420fd5982f59d1b8d64f7785f51ad"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-gnueabihf-cxx03-llvm_version+20.tar.gz"
+    sha256 = "91acac2117da16a5dc7c5e05f3c640e3159ec97d12fe952cd5952e4831926b89"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66e4b4e1c572111acf9f77c086decc24277f1788"
+git-tree-sha1 = "67516f3148138f552e42be40306c2ec0959bcc4c"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "86110ced433d004814b175e0befc6cf0c0f9d85cbfd60cc3bb06ba25f47f3676"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "500b5715fadf10d342e8c16d0a680345a0008b735d30291bd2ed3a63dfbc9e04"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "abcef93bf498017069f409897c5ec0afd82e5194"
+git-tree-sha1 = "09a7460859bdc1174a2f5d669c70fce7a72d305d"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "b2fd8fbc99787b8e6be63e70aa0de0cd9379f34e345687945ff5404b1e7df9af"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-musleabihf-cxx03-llvm_version+20.tar.gz"
+    sha256 = "683c1716de8edd7ba725375290e397d292f17ff515c6fc26811a6681766e0ea7"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "660da28a809ac9089cfca8fde607226a90ef05d9"
+git-tree-sha1 = "cbcdfbfcc4cc82c75a990fda3005579eb0cb3bac"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "52059050a91ef9aaa1ebd574a73325a55aeea161b7285669a378a95cad47cb55"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "9df3aa489a103e0f327b3b3edd8013b352f76efc2b99c2417c48638f4f3e9225"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "52d8a3017c20822443069292c9a01597731694a9"
+git-tree-sha1 = "8c51148d254a400c2c1ad7ca9f481f81a139d400"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "f13c5b42637bd5a4a36bb0d78e8be91fce0687535a6f7f169c0ff1d6aab9653c"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-linux-gnu-cxx03-llvm_version+20.tar.gz"
+    sha256 = "a6956039215c6371c0964d23190c61a841bbfa18fe377581a86dd112eceb2c7d"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96282a58ed7e858da7cddb2a7e97834da2ba8ae3"
+git-tree-sha1 = "e413e6bd29084bb6155ebdd977d008e0bb49749a"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "10dd0dc3c0ae090b9e5dcab8d5182768e1a2bf29faaed83277dd4fd2aef2532b"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "f16937a97c9d8df71289bd969bfbb5a90e77d1b2148fa2e0c6db53e2dbdb3329"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf33fc347a4b86aeaea9fcefad2f65e929ed2c6e"
-llvm_version = "20"
+git-tree-sha1 = "46986c74c4dc90d755392173f3e241cea35101dc"
+llvm_version = "18"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "78537e7f414c481b0afb7757e3d6cc2ad8c8c39a5333dd5a9de18c6158e82541"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-w64-mingw32-cxx03-llvm_version+20.tar.gz"
+    sha256 = "434ab9861bab3d8ba3e9b802a8b47d994cf4aae931647cad228b7b27b33aedcc"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3ad9465b324a3cb60f8f9ade249b36bc437bba7"
-llvm_version = "20"
+git-tree-sha1 = "d7094c94f8a56a05976baf391252624c628f6844"
+llvm_version = "18"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "f761a58da8cbe7bf717fcff77458aa4233835c266ce479c90665faad5e9842d1"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    sha256 = "24b2810ab8e206e5c6148c2695de1f7182d6c277cc6eb88c35ddae0b15103df1"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aabf0a57bab9a93c4975eb7e10c27e2e63e95a44"
+git-tree-sha1 = "303379124ca8ef3291d61cd0cd9e4b6ea5360623"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "26f9302f8bae7ba70a5cc129b7cab168da87270b168a676f5b0f64b4c5f85e5b"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.powerpc64le-linux-gnu-cxx03-llvm_version+20.tar.gz"
+    sha256 = "e99b618f59367e4400995a7e405d348321e2e2e6d958c266ca5a9daeaee1989f"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7372cf332ee1dedc5d1a868733270bfc2995fb67"
+git-tree-sha1 = "8203d3a0422ad221ace08fc4ac892d801948d7b4"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "84e039066df319a054d40970a920d3b428259ed8fa2a3e9aa1d1e23eae6bb53f"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
-[[MLIR]]
-arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1f7b83388d9c8cbe90faa88ce204c3bf7019cc60"
-libc = "glibc"
-llvm_version = "20"
-os = "linux"
-
-    [[MLIR.download]]
-    sha256 = "59498cd0f2d167901ec3145d88ff627bffa24e692405a39a9e6ad177976f9a5b"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.riscv64-linux-gnu-cxx03-llvm_version+20.tar.gz"
-[[MLIR]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b57abfcf2d1b50401a7427eb2c09d2ca82d1820"
-libc = "glibc"
-llvm_version = "20"
-os = "linux"
-
-    [[MLIR.download]]
-    sha256 = "59ad2d5c761e2dafb432af9634f9faa830530d9e45a56368ebc6603d77ea0af4"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "6e9893eb5881e350b783712e83b68524a5214b81d85aa5a568c210abf79d455a"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
-git-tree-sha1 = "71f9bc11adc78a39c6dc599636552983403a85e3"
-llvm_version = "20"
+git-tree-sha1 = "c19e879e69818f2fa62d18f84471efc1958bba2e"
+llvm_version = "18"
 os = "macos"
 
     [[MLIR.download]]
-    sha256 = "ae7595c5d10069c80e49dd293a0949ff380ab7509b05201ab27b4bc5f4f65818"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-apple-darwin-llvm_version+20.tar.gz"
+    sha256 = "c22011b6fbe3539e7e8a55f6afd5c2bad03daa2bd467682a89aedcdd3659a1b4"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-apple-darwin-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a2a5c356a3e18906337ddb4e391b085ec0a81c7"
+git-tree-sha1 = "350a7e13d62c21623f3e195f28307909da5c0643"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "7280af727a84054127b34c4d77a9697c9fa8f77898f53e1865e9ffcd7d7997c4"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx03-llvm_version+20.tar.gz"
+    sha256 = "3b7697e2309ac46de122a298c4fd0570fd58d9f8a9ef36e3932312f930b05f97"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c3e3d6bbff584d848bbdd6a8662d329bb934766"
+git-tree-sha1 = "18b9cd6b0b3df05a18e9e488b5b4b5f1afe57d90"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "af2b110d9918a97781d78167bb270cf907a911ce00d325d7b7fdca42f710ca8d"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "4c6c57d8f893a634e37d0843f0b74414ad5b0a3faabb44633fb383ed6d1255ab"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c3e3d6bbff584d848bbdd6a8662d329bb934766"
+git-tree-sha1 = "18b9cd6b0b3df05a18e9e488b5b4b5f1afe57d90"
 libc = "glibc"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 sanitize = "memory"
 
     [[MLIR.download]]
-    sha256 = "af2b110d9918a97781d78167bb270cf907a911ce00d325d7b7fdca42f710ca8d"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.tar.gz"
+    sha256 = "4c6c57d8f893a634e37d0843f0b74414ad5b0a3faabb44633fb383ed6d1255ab"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b775f4d92daf13540d26ff6b175c9fb2921dc22b"
+git-tree-sha1 = "fc69b9a30ae14588e919a9332d66bcd824460ec1"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "1c1add798ae8b08d265342041d36222d54a8807dd8f940eed2dc9fe4cb5118b9"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-musl-cxx03-llvm_version+20.tar.gz"
+    sha256 = "f491153b118f4914cdfb121a41ee61fe2897c8d88e327b9463e9b26ec6ca807a"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7495baf5a7797115b5e155d74e05ae570ce7d9d2"
+git-tree-sha1 = "4f6cf9a820cf28ac372705604347b69d3a16ca4a"
 libc = "musl"
-llvm_version = "20"
+llvm_version = "18"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "d2fdd5bf1f9a16052d2aa8697e76b631a0e52385892292560df8a61c43bbab26"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    sha256 = "a6aee0497e35703e9053a23554f54f4bd5e1c4bcbda645f00db809877f61a570"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
-git-tree-sha1 = "3b5e3b797db8ad41f086a33b9bb8277902b62180"
-llvm_version = "20"
+git-tree-sha1 = "0ae52c2632b50950f2e7c12e786e06e8c20c5be1"
+llvm_version = "18"
 os = "freebsd"
 
     [[MLIR.download]]
-    sha256 = "56748a8cb5e6cca34d021715da1552e37925d5b5c26b8b611cb292d913b5c81f"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
+    sha256 = "8491ec6af10f35cb4dfda43e17fb18110d2608ecc05bc47d2f43d62fc081cca5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "857529021fe14e49da3086dbeb4601f1fd0d25d3"
-llvm_version = "20"
+git-tree-sha1 = "90c6a8e42d588343a0553b4a50bf568c4af17749"
+llvm_version = "18"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "fcc63e8a35ed0955bb6a7013e16d00b46584d1255561896b8223dca6d152a242"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-w64-mingw32-cxx03-llvm_version+20.tar.gz"
+    sha256 = "d4c272b2c40f098328310c7a2f5e1f825c8cbd7dd8479a4a68b0e98f30aac08d"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dbbb7c046dcf122535b588a964123bd1a39fdb60"
-llvm_version = "20"
+git-tree-sha1 = "71012dcff26f671064abbea50e8259d8733b535c"
+llvm_version = "18"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "1c16f1ef0e31d9433d30f0bfacbfeb28cf0a265e1fd917cd58ddf09232ef1581"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    sha256 = "59cc5f8d401d240d5f51c72ea7dd39f8e3bf419143a322b4307076053ca9ab71"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[MLIR]]
 arch = "aarch64"
-git-tree-sha1 = "2ff79f0cb4d41701bf448eb032dfe22affed41e2"
-llvm_version = "20.asserts"
+git-tree-sha1 = "c293c013b28d732ee9a05ddec914df84a158da99"
+llvm_version = "18.asserts"
 os = "macos"
 
     [[MLIR.download]]
-    sha256 = "01a21f0db682c3bd510d3e83852118263d15c343f9f6acc53fce52220b514c30"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    sha256 = "b4cc73293fe7dcbe5ca492d56d6e05613a2a3624ebba78825529bd69d59bea95"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2137734d8be0851bc2c16a74350db725b1b7569"
+git-tree-sha1 = "542fb07d871490e62e58f0818f95f4314729ed17"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "2fa32ac01f1ee1c9555ae96a6e62d284ff9becfd6ed8bf0314b78f2eace793d2"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-gnu-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "b46ce4debd4d22be619c23965b01d52b0e0fcb1e79033b3b95cc04327c23bc46"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4427f204369a062ec9b36edcd6f55dcf4320e9d"
+git-tree-sha1 = "cf96cf19fae03d9d4ca4d5259d66cfd75124491a"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "b4dc37dafae8da86db1c42debb0f0bc8edbe04e7310f977086c53389f6a9b638"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "626937087596c6f67b722f3ff0c292d6bebce6e3a92261b6fe9d7698a2ec71c5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aa955bf679b5ff1f3e7dc6b9f0629a0ff7f8c237"
+git-tree-sha1 = "717514683245cd4d85e602362b3674d7212d4037"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "64dd7c2a8940d5da40fcadf4bae02a900f1a097f319a4dc8727107e4deb05c7e"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-musl-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "f7bf48260011a2dfe1f4eb670b6e81d339ac858760748f3c9ec7cbffb70e785e"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "938ea304afdd8b4a80c5592f82978028f98c0741"
+git-tree-sha1 = "ae09039814c38a016b97bad88da3738343954a65"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "54334016bdec31980cffdc1b5841243ddf62c64e05ae63f2fc37d6722219e96b"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "bda5a9ca9173ff7063b6b7aa59d0421027f0df522273453cb738a38c11734c0c"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "aarch64"
-git-tree-sha1 = "4480922cb9dbc3fabe9cdeb2f00bb4e4cfaacaef"
-llvm_version = "20.asserts"
+git-tree-sha1 = "dfabc2e04fd0610e6f4a290e2007b30ea5dd1057"
+llvm_version = "18.asserts"
 os = "freebsd"
 
     [[MLIR.download]]
-    sha256 = "e14f77aca91e56349cf0951503558c6c1707cdd797283a3cb24446ea88d8ebf0"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    sha256 = "bf0983f3d0e6faa41f8bfbcfe14b6851ae384af8683556e874969bd537955020"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ee64aa6fe2e5195e4d1018bba42f12bceb3c603"
+git-tree-sha1 = "7fbff9b0d7dde2a06b0ed04beb61c832b919195c"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "27a15eb963bb02ee363e0d026456cd5b2aade8fa041879be91ac9a73708ef019"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-gnueabihf-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "1712847301c23b563d569072ac916a2e5854fd8c2ea429daf9bebc8c0a2b66bc"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9dc7fd9e9b79bbb0a15164f3c826fae757fdb8de"
+git-tree-sha1 = "df7354dc3d4d03ab628ddf0b9191f2db4e2c3651"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "6eb0f6d6d6fb86368bf7c8ff812745a84f3dc6b75228704a74a3bcdd72c980bc"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "b75f71b3c5ccb45dbca1915a820819e2f5e214852d27308291091a6c1bb67969"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9852b4c2f2468758f8ddf6861ec6865512d40cc0"
+git-tree-sha1 = "3196012ef0bf531904ff125b7a9ec0f7e84be91c"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "2cc31374fdf5bc6f58bc319bd48030a6806bbb3af69b62471419f4dde6a50270"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-musleabihf-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "711d7b940ada87371b21a9398cde55eb9d9bb77c6e73956becc8f5abbeadbf7d"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "44946e1604cb7e2f6f77a127f7052c1568f6f99f"
+git-tree-sha1 = "175ff6da135a850ac6d016b88607dad21913e33b"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "aeb0865da2df5568319aea8ce3bef874ecbeea8ff4c8de2ae7f4c691e7161c42"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "a0550ac21319f8ea1bfb03141818a41e981a9498fa3d2f65d5212c4895419ba5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c05c552729627f0d3ccb175b3ab58eec1937def9"
+git-tree-sha1 = "a3a64fb65ddf767328bc74f6095386d46eccffa2"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "85c9fd5504c34b91fda1dc58c9cd39b5d57d3eff6eb4b61be21e11b4081460a5"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-gnueabihf-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "e86c91bfa46492425c7ed9e5ddfb6e208f279a5874f7cd927edf03d4d075575f"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "448123bb1fa9eb0b0691b002d57f2a54dffdde38"
+git-tree-sha1 = "589eb282c3688c0087cddb9b83887902b12a150f"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "0dfe3b6108864bf604cc48357429f71eb9a0346a6b962242574b6299b000d3fd"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "d57f17511e83d29fd23fda03ff80ca52aaf8f6850c57f2825fa6f92c0bb36623"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1098cdb5db3efaf24a984f5c4b264c1fa79c4a54"
+git-tree-sha1 = "652423935eb8b7e22c4456ddbf2501b52dd3b84e"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "29d31c757f89adbb546e73faa4ef24a6bf301fb7dff64de561bd92e920c8de12"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-musleabihf-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "fb51d117443aff5965b66fda2554a486f2106164bd61bd05ddef207895f5d40f"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aff3402cb20a5af21772f7dfa421cd5ded2d4640"
+git-tree-sha1 = "428b067f0c1e99534eabaf083b0cdf3d605c3843"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "8a46d0a841ecc18412ca4a4bfdf28f7dfc8d35a67dbf0e895301f3c492c035ac"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "9d5ec7fb34df1f367af56a1e3138207a8915fc7240741d308928cdcb40ae38f4"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "53336248434bc268bd9fe28f530c17435ffd025a"
+git-tree-sha1 = "70eb1dd9941c4a45dbda2a96fd6bb63db1f05789"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "b881bc33bbb6e72fd53731b8c96502ab6b8be7c18628ed72f19b140c1a98eaf1"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-linux-gnu-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "d2184c0e3fef602c928c42105970d743c7034472eb6b6a9e4332e027d90f2c19"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5dab6a618e09dfdc6ed67423f96ac9ed1d256884"
+git-tree-sha1 = "5886dfea08ae98cca4cf100111ffeb32f4c56294"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "213ebaf8cd8fef1b68542536ebdfc97393b37e2b74bbe1af8780894d4428bce5"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "71ba7fe81880b97490cd6a74b32630a624abcd7712cc6df7705baa1b54c7ef32"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e38ef718f4a925d93b47851e4acb4981a11efcf"
-llvm_version = "20.asserts"
+git-tree-sha1 = "e6ccdbefb7430a9b11b335cb3eeda4736d8c0f96"
+llvm_version = "18.asserts"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "204d27e16c9c1a9320f7981556313e71ef6dff35bbad4302256baabf91636f04"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-w64-mingw32-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "6d7301ed13f2415f2ac7ba916c1886a6eba433a8710e7299cd0d9bd717b6f496"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e1ab8fa6e9d57009d1ea8e816f5273f8e7279e2a"
-llvm_version = "20.asserts"
+git-tree-sha1 = "ccf9ac6bda61e020dff6a876b2cb795c325cf2bd"
+llvm_version = "18.asserts"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "398c26f5edc795d4d379c0ed339e4d44b64a586d9bbd3b457aaf90ea9bed42af"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "ce94a592c27e26e7708b06e635704750a79102e2be9cfc675239f303d7929468"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "39d46e4b8a7dbfd24e45961cbbf863b833e29d72"
+git-tree-sha1 = "cfc73b3b69bf80fa426efbe480b2a747f6e7e1e3"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "97c1f5cf546e24969cd69d60af16adfcdc32340f44adc3a35f78add6095152b8"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.powerpc64le-linux-gnu-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "5bf46bf8065b1d62037376ce0e2657354795e38544110cba3fa8e628bda4c4f5"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "45218b1a9b7d3e9316e74574387b02218737fa12"
+git-tree-sha1 = "03bc010a3d8e53d642c5b363e49f7a9d9433b078"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "77dba57b41affe311c0bd7c0b7d35212b86bd451dd8f595dce60ca91837ef153"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
-[[MLIR]]
-arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1897800230f66dbd89e1bb7d6bb6f98bb47d2c53"
-libc = "glibc"
-llvm_version = "20.asserts"
-os = "linux"
-
-    [[MLIR.download]]
-    sha256 = "4b13dc7caf166ffe7463dbcc03cac2c64d26fccf9d5f42df20a284f47e62ec26"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.riscv64-linux-gnu-cxx03-llvm_version+20.asserts.tar.gz"
-[[MLIR]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b21ad551d5f5ba6bee44bb790a7b04b8b3c5145"
-libc = "glibc"
-llvm_version = "20.asserts"
-os = "linux"
-
-    [[MLIR.download]]
-    sha256 = "147be4d03651ca12b5c7db0bb322b8633a785ddd0dfac35e6aa9a8968fa23c54"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "f09ae5b27f42e05d765d05618880765a22dccc550e2bfe15a608ea2b73fce4ff"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
-git-tree-sha1 = "3eeac02e3200e9afdc0b827ad4d279d04df664b2"
-llvm_version = "20.asserts"
+git-tree-sha1 = "1961be6bb823f15569291229305f9528c96bb37d"
+llvm_version = "18.asserts"
 os = "macos"
 
     [[MLIR.download]]
-    sha256 = "ce911cfb58682b5fed29ad3e5902742656b1fe459f0ed4a33b1191a066d6fb3c"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    sha256 = "c09ded27a2491b269d7eeb7d9388c3d8a1d8162ef14484a443a65ecb3916756d"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c51adc9f2851abec5ba023d69442d388f7c02b45"
+git-tree-sha1 = "6f054771e7763c94837aece038edbe886c2b9e4f"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "fa77e55b4aa52ff2d13e5e43f45c5b4d653e93308a0ce9dd433b631440958f42"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "7db0dc81183ee82c490d5ba65235725fdc51016c3ebdc31a0644b6b784cc551e"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfc5b70027c3bc6754c2a83b67ff76c3c290d8e9"
+git-tree-sha1 = "da87f6536c2ffb6f28b3737f3d46ad8967b155c3"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "2c1357d6e3dcfbae0518df3849e9da65086ffa8a021bb73f7f4b52c7fb74a9df"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "eaf2478685ba495b78f1c7b355795e8dc648234657b042ea8ee0c39d2f7c2256"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfc5b70027c3bc6754c2a83b67ff76c3c290d8e9"
+git-tree-sha1 = "da87f6536c2ffb6f28b3737f3d46ad8967b155c3"
 libc = "glibc"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 sanitize = "memory"
 
     [[MLIR.download]]
-    sha256 = "2c1357d6e3dcfbae0518df3849e9da65086ffa8a021bb73f7f4b52c7fb74a9df"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+20.asserts.tar.gz"
+    sha256 = "eaf2478685ba495b78f1c7b355795e8dc648234657b042ea8ee0c39d2f7c2256"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ae3197768bf1e51f7ac317237128035abc797a8"
+git-tree-sha1 = "b19f58488fdccb2c8c666fcb952b8898758870b8"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "c0cad4da775a7d98ceff5c63f38249a5e67b646e8547cf8bd7a4ede6b094af7b"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-musl-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "dd20c9ffc01b441c059ca41f48d8b060ce692408b06c810f55780eaa4895b675"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c43ec37e1672ab69e5f92ed1c57539599b97b630"
+git-tree-sha1 = "f5d8863b9c679c3439c024c21cf440f4f5f11052"
 libc = "musl"
-llvm_version = "20.asserts"
+llvm_version = "18.asserts"
 os = "linux"
 
     [[MLIR.download]]
-    sha256 = "0a9915b3e7dd3a487d24fecf6fa840e3a14541a3e21f57f67d40ac6e3ef78a7c"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "c5dd799054a67ec9dc8c7ddbeeeaed1a489698c9caacc5b1dcf79dc7afeb4f61"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
-git-tree-sha1 = "0c1d7caab52df84a116d744a9eb1fd4e8fc65a63"
-llvm_version = "20.asserts"
+git-tree-sha1 = "aba04600e76dc7fc3ebdb95bc80d09d590737a86"
+llvm_version = "18.asserts"
 os = "freebsd"
 
     [[MLIR.download]]
-    sha256 = "ee85c34a1234476adabfdcad4ed361959dec925c23bd4bb019fe8cc4ebc25c03"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    sha256 = "6d285bd8c535e5f601f13d23657cb478350c7d317b275141e74bc24429249522"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf04810f6e48a39a9428bc140919378cf3fb2da7"
-llvm_version = "20.asserts"
+git-tree-sha1 = "c92eda905508195cac67ad06a02dd6917358dedd"
+llvm_version = "18.asserts"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "393f7b07971c149063a728a31e094c2425de2bb2af782216c224bf206443c8b3"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-w64-mingw32-cxx03-llvm_version+20.asserts.tar.gz"
+    sha256 = "e0cc4a6cca7729212feda5e673aef005d61bc44b1d52f8e623552450c8428a6e"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[MLIR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed425cb37ebc6d03ae76ce8183aaa9d8e23a310d"
-llvm_version = "20.asserts"
+git-tree-sha1 = "1832ba3a6cb56142764621e7d854df6e2a8d01a3"
+llvm_version = "18.asserts"
 os = "windows"
 
     [[MLIR.download]]
-    sha256 = "02ee0cde3d68026913279e6baa0ef9d77fcd2478c87c87d22a98e65636b82ece"
-    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v20.1.2+0/MLIR.v20.1.2.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "cf233cb9680cd05e9841085e24cd798ea750aeacb6e5f810f82ff790684a8624"
+    url = "https://github.com/JuliaBinaryWrappers/MLIR_jll.jl/releases/download/MLIR-v18.1.7+4/MLIR.v18.1.7.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
