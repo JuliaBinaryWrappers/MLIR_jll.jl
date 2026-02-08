@@ -6,5 +6,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("MLIR")
-JLLWrappers.@generate_main_file("MLIR", UUID("a70bccb4-a5c0-5e2e-a329-e731972457e8"))
+JLLWrappers.@generate_main_file("MLIR", Base.UUID("a70bccb4-a5c0-5e2e-a329-e731972457e8"))
 end  # module MLIR_jll
